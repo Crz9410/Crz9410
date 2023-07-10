@@ -1,8 +1,8 @@
-# ¡Hola! Soy Cristian Muñoz 👋
+# ¡Hola! Soy Cristian Muñoz 👋 🦾 
 
-## Desarrollador Full Stack 🚀👨‍💻💻
+## Desarrollador Full Stack 🚀💻 👨🏻‍💻
 
-### ¿QUIÉN SOY?  🖱 💻🔭
+### ¿QUIÉN SOY?  🖱 💻 🛸 🔭  
 
 Soy un apasionado desarrollador Full Stack especializado en tecnologías como JavaScript, GitHub, Node.js, Sequelize,
 React, Redux y Postgres. Busco oportunidades laborales en las que pueda usar mis habilidades técnicas y contribuir al
@@ -23,8 +23,9 @@ He realizado proyectos individuales como Fullstack PI FOODS.
 - <img src="https://cdn.worldvectorlogo.com/logos/react-2.svg" alt="React" width="20" height="20"/> React
 - <img src="https://cdn.worldvectorlogo.com/logos/redux.svg" alt="Redux" width="20" height="20"/> Redux
 
-### CONTACTO 📞📧
+### CONTACTO  📲 📨
 
 Si quieres contactarme, aquí tienes algunas formas de hacerlo:
 
-- <a href="https://www.linkedin.com/in/cristian-mu%C3%B1oz-27215a267" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/145/145807.png" alt="LinkedIn" width="20" height="20"/></a> LinkedIn
+
+- <a href="https://www.linkedin.com/in/cristian-mu%C3%B1oz-27215a267" target="_blank"><img src="https://cdn-icons-png.flaticon.com/256/174/174857.png" alt="linkedin icon" width="5%" height="8%"/></a>
