@@ -1,8 +1,8 @@
 # ¡Hola! Soy Cristian Muñoz 👋
 
-## Desarrollador Full Stack 🚀👨‍💻
+## Desarrollador Full Stack 🚀👨‍💻💻
 
-### ¿QUIÉN SOY? 👨‍💻
+### ¿QUIÉN SOY?  🖱 💻🔭
 
 Soy un apasionado desarrollador Full Stack especializado en tecnologías como JavaScript, GitHub, Node.js, Sequelize,
 React, Redux y Postgres. Busco oportunidades laborales en las que pueda usar mis habilidades técnicas y contribuir al
@@ -13,7 +13,7 @@ Uno de los proyectos en los que he colaborado es [GameZone](https://front-gamezo
 
 He realizado proyectos individuales como Fullstack PI FOODS.
 
-### SKILLS 👨‍💻🔧
+### SKILLS 💻⌨️🔧
 
 - <img src="https://cdn-icons-png.flaticon.com/512/1216/1216733.png" alt="JavaScript" width="20" height="20"/> JavaScript
 - <img src="https://cdn-icons-png.flaticon.com/512/732/732190.png" alt="HTML" width="20" height="20"/> HTML
