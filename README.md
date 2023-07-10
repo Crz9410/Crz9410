@@ -26,7 +26,7 @@ Tambien he realizado proyectos individuales como Fullstack PI FOODS.
 - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="30" height="30"/> PostgreSQL
 - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="30" height="30"/> GitHub
 
-### CONTACTO  📲 📨
+### CONTACTO  📲📬 
 
 Si quieres contactarme, aquí tienes algunas formas de hacerlo:
 
@@ -37,5 +37,5 @@ Si quieres contactarme, aquí tienes algunas formas de hacerlo:
 </a>
 
 <a href="mailto:crisstofer_9410@hotmail.com">
-  <img src="https://cdn-icons-png.flaticon.com/512/732/732223.png" alt="Icono de Hotmail" width="20" height="20">
+  <img src="https://cdn-icons-png.flaticon.com/512/732/732223.png" alt="Icono de Hotmail" width="5%" height="8%">
 </a>
