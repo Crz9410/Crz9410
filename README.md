@@ -9,7 +9,7 @@ Soy un Desarrollador Full Stack con experiencia en JavaScript, React, Node.js y 
 Soy un apasionado por el aprendizaje continuo y siempre estoy buscando nuevas formas de mejorar mis habilidades técnicas. Me encanta colaborar en proyectos desafiantes y trabajar en equipos multidisciplinarios.
 Mi capacidad para adaptarme y aprender rápidamente me permite enfrentar desafíos con facilidad y encontrar soluciones efectivas. Además, soy versátil en entornos de trabajo y tengo un enfoque metódico para la resolución de problemas.
 
-Uno de los proyectos en los que he trabajdo es [GameZone](https://front-gamezone-production.up.railway.app/).
+Uno de los proyectos en los que he trabajdo en equipo es [GameZone](https://front-gamezone-production.up.railway.app/).
 
 Tambien he realizado proyectos individuales como Fullstack PI FOODS.
 
@@ -35,7 +35,6 @@ Si quieres contactarme, aquí tienes algunas formas de hacerlo:
 <a href="mailto:crz9410@gmail.com">
   <img src="https://w7.pngwing.com/pngs/758/665/png-transparent-new-logo-gmail-google-new-logos-icon.png" alt="Icono de Gmail" width="5%" height="8%">
 </a>
-
 <a href="mailto:crisstofer_9410@hotmail.com">
   <img src="https://cdn-icons-png.flaticon.com/512/732/732223.png" alt="Icono de Hotmail" width="5%" height="8%">
 </a>
