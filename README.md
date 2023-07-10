@@ -4,9 +4,10 @@
 
 ### Sobre mi  🖱💻🛸🔭  
 
-Soy un Desarrollador Full Stack con experiencia en JavaScript, React, Node.js y GitHub. Me apasiona construir aplicaciones web robustas y escalables utilizando las mejores prácticas de desarrollo. Tengo conocimientos en el uso de tecnologías como Sequelize, Redux, PostgreSQL, HTML y CSS.
+Soy un Desarrollador Full Stack junior con experiencia en JavaScript, React, Node.js y GitHub. Me apasiona construir aplicaciones web robustas y escalables utilizando las mejores prácticas de desarrollo. Tengo conocimientos en el uso de tecnologías como Sequelize, Redux, PostgreSQL, HTML y CSS.
 
 Soy un apasionado por el aprendizaje continuo y siempre estoy buscando nuevas formas de mejorar mis habilidades técnicas. Me encanta colaborar en proyectos desafiantes y trabajar en equipos multidisciplinarios.
+
 Mi capacidad para adaptarme y aprender rápidamente me permite enfrentar desafíos con facilidad y encontrar soluciones efectivas. Además, soy versátil en entornos de trabajo y tengo un enfoque metódico para la resolución de problemas.
 
 Uno de los proyectos en los que he trabajdo en equipo es [GameZone](https://front-gamezone-production.up.railway.app/).
