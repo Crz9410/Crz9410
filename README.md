@@ -4,14 +4,14 @@
 
 ### Sobre mi  🖱💻🛸🔭  
 
-Soy un apasionado desarrollador Full Stack especializado en tecnologías como JavaScript, GitHub, Node.js, Sequelize,
-React, Redux y Postgres. Busco oportunidades laborales en las que pueda usar mis habilidades técnicas y contribuir al
-desarrollo de experiencias únicas y atractivas. Además, valoro la convivencia y la interacción con mis colegas, ya
-que creo que un ambiente de trabajo colaborativo y positivo es fundamental para el éxito de cualquier proyecto.
+Soy un Desarrollador Full Stack con experiencia en JavaScript, React, Node.js y GitHub. Me apasiona construir aplicaciones web robustas y escalables utilizando las mejores prácticas de desarrollo. Tengo conocimientos en el uso de tecnologías como Sequelize, Redux, PostgreSQL, HTML y CSS.
 
-Uno de los proyectos en los que he colaborado es [GameZone](https://front-gamezone-production.up.railway.app/).
+Soy un apasionado por el aprendizaje continuo y siempre estoy buscando nuevas formas de mejorar mis habilidades técnicas. Me encanta colaborar en proyectos desafiantes y trabajar en equipos multidisciplinarios.
+Mi capacidad para adaptarme y aprender rápidamente me permite enfrentar desafíos con facilidad y encontrar soluciones efectivas. Además, soy versátil en entornos de trabajo y tengo un enfoque metódico para la resolución de problemas.
 
-He realizado proyectos individuales como Fullstack PI FOODS.
+Uno de los proyectos en los que he trabajdo es [GameZone](https://front-gamezone-production.up.railway.app/).
+
+Tambien he realizado proyectos individuales como Fullstack PI FOODS.
 
 ### SKILLS 💻⌨️🔧
 
@@ -32,5 +32,10 @@ Si quieres contactarme, aquí tienes algunas formas de hacerlo:
 
 
 <a href="https://www.linkedin.com/in/cristian-mu%C3%B1oz-27215a267" target="_blank"><img src="https://cdn-icons-png.flaticon.com/256/174/174857.png" alt="linkedin icon" width="5%" height="8%"/></a>
-<a href="cristian:crz9410@gmail.com"><img src="https://w7.pngwing.com/pngs/758/665/png-transparent-new-logo-gmail-google-new-logos-icon.png" alt="email icon" width="5%" height="8%"></a>
-<a href="cristian:crisstofer_9410@hotmail.com" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="Hotmail" width="20" height="20"/></a>
+<a href="mailto:crz9410@gmail.com">
+  <img src="https://w7.pngwing.com/pngs/758/665/png-transparent-new-logo-gmail-google-new-logos-icon.png" alt="Icono de Gmail" width="5%" height="8%">
+</a>
+
+<a href="mailto:crisstofer_9410@hotmail.com">
+  <img src="https://cdn-icons-png.flaticon.com/512/732/732223.png" alt="Icono de Hotmail" width="20" height="20">
+</a>
