@@ -1,8 +1,8 @@
-# ¡Hola! Soy Cristian Muñoz 👋 🦾 
+# ¡Hola! Soy Cristian Muñoz 👋🦾 
 
-## Desarrollador Full Stack 🚀💻 👨🏻‍💻
+## Desarrollador Full Stack 🚀💻👨🏻‍💻
 
-### ¿QUIÉN SOY?  🖱 💻 🛸 🔭  
+### Sobre mi  🖱💻🛸🔭  
 
 Soy un apasionado desarrollador Full Stack especializado en tecnologías como JavaScript, GitHub, Node.js, Sequelize,
 React, Redux y Postgres. Busco oportunidades laborales en las que pueda usar mis habilidades técnicas y contribuir al
@@ -31,4 +31,6 @@ He realizado proyectos individuales como Fullstack PI FOODS.
 Si quieres contactarme, aquí tienes algunas formas de hacerlo:
 
 
-- <a href="https://www.linkedin.com/in/cristian-mu%C3%B1oz-27215a267" target="_blank"><img src="https://cdn-icons-png.flaticon.com/256/174/174857.png" alt="linkedin icon" width="5%" height="8%"/></a>
+<a href="https://www.linkedin.com/in/cristian-mu%C3%B1oz-27215a267" target="_blank"><img src="https://cdn-icons-png.flaticon.com/256/174/174857.png" alt="linkedin icon" width="5%" height="8%"/></a>
+<a href="Cristian:crz9410@gmail.com"><img src="https://w7.pngwing.com/pngs/758/665/png-transparent-new-logo-gmail-google-new-logos-icon.png" alt="email icon" width="5%" height="8%"></a>
+<a href="Cristian:crisstofer_9410@hotmail.com" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="Hotmail" width="20" height="20"/></a> Hotmail
